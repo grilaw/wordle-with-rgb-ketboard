@@ -1,1 +1,1 @@
-# wordle-with-rgb-ketboard
+Wordle with support of rgb keyboard
